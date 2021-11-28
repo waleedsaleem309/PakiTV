@@ -8,15 +8,15 @@
 ],
      "Madani Channel" :[
    {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/a-sports/a.html",
+    "ChannelName" : "URDU",
+    "ChannelUrl" : "http://iframe.pakitv.tk/Islamic/madani/urdu",
     "EventName" : "T10 League",
     "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "Toast" : "Please Unmute the Channel"
   },
         {
-    "ChannelName" : "Source",
-    "ChannelUrl" : "https://iframe.crik.live/free/a",
+    "ChannelName" : "ENGLISH",
+    "ChannelUrl" : "http://iframe.pakitv.tk/Islamic/madani/english",
     "EventName" : "T10 League",
     "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "Toast" : "Please Unmute the Channel"
