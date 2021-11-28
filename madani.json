@@ -1,7 +1,7 @@
 {
            "Madani": [
 {
-    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventImage" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "EventName" : "Madani Channel",
     "Url" : "https://pakitv.tk/madani.json"
   }
@@ -11,14 +11,14 @@
     "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/a-sports/a.html",
     "EventName" : "T10 League",
-    "ImageUrl" : "http://crik.live/pics/a-sports.jpg",
+    "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "Toast" : "Please Unmute the Channel"
   },
         {
     "ChannelName" : "Source",
     "ChannelUrl" : "https://iframe.crik.live/free/a",
     "EventName" : "T10 League",
-    "ImageUrl" : "http://crik.live/pics/a-sports",
+    "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "Toast" : "Please Unmute the Channel"
   }
 ]
