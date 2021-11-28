@@ -12,14 +12,14 @@
     "ChannelUrl" : "http://iframe.pakitv.tk/Islamic/madani/urdu",
     "EventName" : "T10 League",
     "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
-    "Toast" : "Please Unmute the Channel"
+    "Toast" : "Please Tap on Play Button"
   },
         {
     "ChannelName" : "ENGLISH",
     "ChannelUrl" : "http://iframe.pakitv.tk/Islamic/madani/english",
     "EventName" : "T10 League",
     "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
-    "Toast" : "Please Unmute the Channel"
+    "Toast" : "Please Tap on Play Button"
   }
 ]
 }
