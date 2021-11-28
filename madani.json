@@ -5,5 +5,21 @@
     "EventName" : "Madani Channel",
     "Url" : "https://crik.live/Highlights.json"
   }
+],
+     "Madani Channel" :[
+   {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "http://iframe.crik.live/a-sports/a.html",
+    "EventName" : "T10 League",
+    "ImageUrl" : "http://crik.live/pics/a-sports.jpg",
+    "Toast" : "Please Unmute the Channel"
+  },
+        {
+    "ChannelName" : "Source",
+    "ChannelUrl" : "https://iframe.crik.live/free/a",
+    "EventName" : "T10 League",
+    "ImageUrl" : "http://crik.live/pics/a-sports",
+    "Toast" : "Please Unmute the Channel"
+  }
 ]
 }
