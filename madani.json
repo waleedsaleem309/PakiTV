@@ -9,14 +9,14 @@
      "Madani Channel" :[
    {
     "ChannelName" : "URDU",
-    "ChannelUrl" : "http://iframe.pakitv.tk/Islamic/madani/urdu",
+    "ChannelUrl" : "http://player.pakitv.tk/religious/madni-urdu.html",
     "EventName" : "T10 League",
     "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "Toast" : "Please Tap on Play Button"
   },
         {
     "ChannelName" : "ENGLISH",
-    "ChannelUrl" : "http://iframe.pakitv.tk/Islamic/madani/english",
+    "ChannelUrl" : "http://player.pakitv.tk/religious/madni-english.html",
     "EventName" : "T10 League",
     "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
     "Toast" : "Please Tap on Play Button"
