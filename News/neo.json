@@ -1,0 +1,18 @@
+{
+           "Neo": [
+{
+    "EventImage" : "http://pakitv.tk/app-poster/madani-t.jpg",
+    "EventName" : "Neo News",
+    "Url" : "https://pakitv.tk/News/neo.json"
+  }
+],
+     "Neo News" :[
+   {
+    "ChannelName" : "Neo News",
+    "ChannelUrl" : "http://player.pakitv.tk/religious/madni-urdu.html",
+    "EventName" : "T10 League",
+    "ImageUrl" : "http://pakitv.tk/app-poster/madani-t.jpg",
+    "Toast" : "Please Tap on Play Button"
+  }
+]
+}
